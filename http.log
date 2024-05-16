@@ -1,0 +1,18 @@
+nohup: ignoring input
+
+> admin00@0.0.0 dev
+> vite --mode development
+
+
+  vite v2.9.18 dev server running at:
+
+  > Local:    http://localhost:3000/
+  > Network:  http://192.168.123.4:3000/
+
+  ready in 253ms.
+
+[1m[33m[@vue/compiler-sfc][0m[33m the >>> and /deep/ combinators have been deprecated. Use :deep() instead.[0m
+
+[1m[33m[@vue/compiler-sfc][0m[33m the >>> and /deep/ combinators have been deprecated. Use :deep() instead.[0m
+
+Killed
